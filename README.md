@@ -24,7 +24,8 @@ Statistical Thesaurus is an IER Model for query expansion
 20)	 Append these top words to the original query and print it.
 
 # Output screenshot
-![image](https://github.com/KeerthikaReddy02/Statistical-Thesaurus/assets/78225681/18eb4a6c-400d-4c15-b58a-0e0642ee1f85)
+<img width="570" alt="image" src="https://github.com/KeerthikaReddy02/Statistical-Thesaurus/assets/78225681/8d1daade-565c-4032-ae88-c746bdc20857">
+
 
 # Instructions to execute the program
 1) Download the StatThesaurus.py file
